@@ -81,3 +81,19 @@ footer{
     padding:20px;
     margin-top:50px;
 }
+.cv-button{
+    display:inline-block;
+    margin-top:25px;
+    padding:12px 24px;
+    background:#f97316;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.cv-button:hover{
+    background:#ea580c;
+    transform:translateY(-2px);
+}
